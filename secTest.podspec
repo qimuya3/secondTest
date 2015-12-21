@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "secondTest"
-  s.version      = "0.0.1"
+  s.version      = "0.1.1"
   s.summary      = "secondTest is a test project."
   s.homepage     = "https://github.com/qimuya3/secondTest"
   s.license      = 'MIT'
